@@ -215,5 +215,5 @@ Cada topología de red se implementa como una subclase de `NetworkTopology`:
     }
 
 ## Ejemplo de Salida
-![img.png](img.png)
+![img.png](src%2Fmain%2Fjava%2Fimg.png)
 
